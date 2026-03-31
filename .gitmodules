@@ -1,0 +1,6 @@
+[submodule "astroProject"]
+	path = astroProject
+	url = https://github.com/ralejomorejon/astroStore.git
+[submodule "studio-wisdom-tooth"]
+	path = studio-wisdom-tooth
+	url = https://github.com/ralejomorejon/studio-wisdom-tooth.git
