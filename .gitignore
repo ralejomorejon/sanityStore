@@ -52,3 +52,7 @@ yarn.lock
 
 # Temp files
 *.tmp
+
+# Nested .git directories
+astroProject/.git/
+studio-wisdom-tooth/.git/
